@@ -491,6 +491,57 @@ Statistical Neurodynamics of Deep Networks: Geometry of Signal Spaces </a></b></
  
  
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(271).pdf" style="text-decoration:none;">Quantum algorithms for supervised and unsupervised machine learning</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(272).pdf" style="text-decoration:none;">Understanding Machine-learned Density Functionals</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(273).pdf" style="text-decoration:none;">Tensor Networks for Big Data Analytics and Large-Scale Optimization Problems</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(274).pdf" style="text-decoration:none;">An exact mapping between the Variational Renormalization Group and Deep Learning</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(275).pdf" style="text-decoration:none;">Automated Search for new Quantum Experiments</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(276).pdf" style="text-decoration:none;">Quantum gate learning in qubit networks: Toffoli gate without time dependent control</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(277).pdf" style="text-decoration:none;">Quantum Boltzmann Machine</a></b></li>
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(278).pdf" style="text-decoration:none;"> Machine learning phases of matter </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(279).pdf" style="text-decoration:none;">Exponential Machines</a></b></li>
+  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(280).pdf" style="text-decoration:none;">Supervised Learning With Quantum-Inspired Tensor Networks </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(281).pdf" style="text-decoration:none;">Discovering Phase Transitions with Unsupervised Learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(282).pdf" style="text-decoration:none;">Solving the Quantum Many-Body Problem with Artificial Neural Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(283).pdf" style="text-decoration:none;">Learning Thermodynamics with Boltzmann Machines</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(284).pdf" style="text-decoration:none;">Machine learning quantum phases of matter beyond the fermion sign problem</a></b></li>
+                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(285).pdf" style="text-decoration:none;">Why does deep and cheap learning work so well?</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(286).pdf" style="text-decoration:none;">Low-Rank Tensor Networks for Dimensionality Reduction and Large-Scale Optimization Problems: Perspectives and Challenges PART 1</a></b></li>
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(287).pdf" style="text-decoration:none;">Machine Learning Phases of Strongly Correlated Fermions</a></b></li>   
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(288).pdf" style="text-decoration:none;">By-passing the Kohn-Sham equations with machine learning</a></b></li> 
+
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(289).pdf" style="text-decoration:none;">Pure density functional for strong correlations and the thermodynamic limit from machine learning</a></b></li> 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(290).pdf" style="text-decoration:none;">Machine learning topological states</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(291).pdf" style="text-decoration:none;">Learning phase transitions by confusion</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(292).pdf" style="text-decoration:none;">Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(293).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method</a></b></li> 
+ 
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(294).pdf" style="text-decoration:none;">A Neural Decoder for Topological Codes</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(295).pdf" style="text-decoration:none;">Quantum Loop Topography for Machine Learning</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(296).pdf" style="text-decoration:none;">Sampling algorithms for validation of supervised learning models for Ising-like systems</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(297).pdf" style="text-decoration:none;">Quantum Machine Learning</a></b></li>
+   
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(298).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method in Fermion Systems</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(299).pdf" style="text-decoration:none;">Tomography and Generative Data Modeling via Quantum Boltzmann Training</a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(300).pdf" style="text-decoration:none;">Reinforcement Learning Using Quantum Boltzmann Machines</a></b></li>
  
  
  
