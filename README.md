@@ -29,27 +29,30 @@
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(17).pdf" style="text-decoration:none;">Machine Learning Phases of Strongly Correlated Fermions</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(18).pdf" style="text-decoration:none;">Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(18).pdf" style="text-decoration:none;">By-passing the Kohn-Sham equations with machine learning</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(20).pdf" style="text-decoration:none;">Eloquent Ruby </a></b></li>
+  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(19).pdf" style="text-decoration:none;">Pure density functional for strong correlations and the thermodynamic limit from machine learning</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(21).pdf" style="text-decoration:none;">The Canadian Encyclopedia Of Natural Medicine</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(22).pdf" style="text-decoration:none;">The Business of Food: Encyclopedia of the Food and Drink Industries</a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(23).pdf" style="text-decoration:none;">Engineering Design Process</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(20).pdf" style="text-decoration:none;">Machine learning topological states</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(21).pdf" style="text-decoration:none;">Learning phase transitions by confusion</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(22).pdf" style="text-decoration:none;">Accelerate Monte Carlo Simulations with Restricted Boltzmann Machines</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(23).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method</a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(24).pdf" style="text-decoration:none;">Engineering Geology for Underground Rocks</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(24).pdf" style="text-decoration:none;">A Neural Decoder for Topological Codes</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(25).pdf" style="text-decoration:none;">Engineers' Surveying Instruments, Their Construction, Adjustment, and Use</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(26).pdf" style="text-decoration:none;">Enzymes in Farm Animal Nutrition</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(27).pdf" style="text-decoration:none;">Essential PHP Security</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(25).pdf" style="text-decoration:none;">Quantum Loop Topography for Machine Learning</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(26).pdf" style="text-decoration:none;">Sampling algorithms for validation of supervised learning models for Ising-like systems</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(27).pdf" style="text-decoration:none;">Quantum Machine Learning</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(28).pdf" style="text-decoration:none;">Everyday Ayurveda </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(28).pdf" style="text-decoration:none;">Self-Learning Monte Carlo Method in Fermion Systems</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(29).pdf" style="text-decoration:none;">Extending Puppet </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(29).pdf" style="text-decoration:none;">Tomography and Generative Data Modeling via Quantum Boltzmann Training</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(30).pdf" style="text-decoration:none;">Go Design Patterns</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(30).pdf" style="text-decoration:none;">Reinforcement Learning Using Quantum Boltzmann Machines</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(31).pdf" style="text-decoration:none;">Growing your own vegetables</a></b></li> 
     <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(32).pdf" style="text-decoration:none;">Guidelines for The Use of Herbal Medicines
