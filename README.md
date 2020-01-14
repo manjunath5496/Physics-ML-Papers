@@ -224,7 +224,7 @@ Neural Network</a></b></li>
    
  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(121).pdf" style="text-decoration:none;">Universal Quantum Control through Deep Reinforcement Learning</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(122).pdf" style="text-decoration:none;">Energy-entropy competition and the eectiveness of stochastic gradient descent in machine learning </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(122).pdf" style="text-decoration:none;">Energy-entropy competition and the effectiveness of stochastic gradient descent in machine learning </a></b></li>  
      
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(123).pdf" style="text-decoration:none;">Thermodynamics of Restricted Boltzmann Machines and Related Learning Dynamics</a></b></li>  
    
