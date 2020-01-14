@@ -180,185 +180,186 @@ Neural Network</a></b></li>
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(100).pdf" style="text-decoration:none;">A quantum algorithm to train neural networks using low-depth circuits</a></b></li>  
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(101).pdf" style="text-decoration:none;">Node.js the Right Way</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(101).pdf" style="text-decoration:none;">Pattern recognition techniques for Boson Sampling validation</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(102).pdf" style="text-decoration:none;">Occult Meditations</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(102).pdf" style="text-decoration:none;">Learning Relevant Features of Data with Multi-scale Tensor Networks</a></b></li> 
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(103).pdf" style="text-decoration:none;">Pediatric Nutrition in Practice </a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(103).pdf" style="text-decoration:none;">A relativistic extension of Hopfield neural networks via the mechanical analogy </a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(104).pdf" style="text-decoration:none;">Perl for Beginners</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(104).pdf" style="text-decoration:none;">Generative Models for Stochastic Processes Using Convolutional Neural Networks</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(105).PDF" style="text-decoration:none;">Handbook of Human Resource Management in Government</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(105).pdf" style="text-decoration:none;">Scale-invariant Feature Extraction of Neural Network and Renormalization Group Flow</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(106).pdf" style="text-decoration:none;">The Oxford Handbook of Political Institutions</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(106).pdf" style="text-decoration:none;">Experimentally Detecting a Quantum Change Point via Bayesian Inference</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(107).pdf" style="text-decoration:none;">Emerson: Political Writings</a></b></li> 
-  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(108).pdf" style="text-decoration:none;">Practical Artificial Intelligence For Dummies</a></b></li> 
-  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(109).pdf" style="text-decoration:none;">Practical Cassandra: A Developer's Approach</a></b></li>  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(110).pdf" style="text-decoration:none;">Practical Node.js: Building Real-World Scalable Web Apps</a></b></li>  
-   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(111).pdf" style="text-decoration:none;">Pro ASP.NET Web API Security: Securing ASP.NET Web API</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(107).pdf" style="text-decoration:none;">Leveraging Adiabatic Quantum Computation for Election Forecasting</a></b></li> 
   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(112).pdf" style="text-decoration:none;">Pro Puppet</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(108).pdf" style="text-decoration:none;">Deep UQ: Learning deep neural network surrogate models for high dimensional uncertainty quantification</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(113).pdf" style="text-decoration:none;">Puppet Best Practices</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(109).pdf" style="text-decoration:none;">Critical Percolation as a Framework to Analyze the Training of Deep Networks</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(114).pdf" style="text-decoration:none;">Puppet Cookbook</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(115).pdf" style="text-decoration:none;">Purpose Driven or Scripture Driven?</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(110).pdf" style="text-decoration:none;">Neural Network Renormalization Group</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(116).pdf" style="text-decoration:none;">Python For Dummies</a></b></li>   
-   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(117).pdf" style="text-decoration:none;">Python Pocket Reference</a></b></li>  
-   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(118).pdf" style="text-decoration:none;">Rediscovering the Kingdom</a></b></li>  
-   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(119).pdf" style="text-decoration:none;">Abstracts - The 10th World Congress Of International Society Of Physical And Rehabilitation Medicine (May 29 –June 2, 2016, Kuala Lumpur, Malaysia)</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(111).pdf" style="text-decoration:none;">Taking gradients through experiments: LSTMs and memory proximal policy optimization for black-box quantum control</a></b></li> 
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(120).pdf" style="text-decoration:none;">Resistance and Persuasion</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(121).pdf" style="text-decoration:none;">Resource Book on Horticulture Nursery Management</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(112).pdf" style="text-decoration:none;">Reinforcement Learning with Neural Networks for Quantum Feedback</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(113).pdf" style="text-decoration:none;">Learning DNFs under product distributions via μ–biased quantum Fourier sampling</a></b></li>  
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(122).pdf" style="text-decoration:none;">The Purpose Driven Life </a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(114).pdf" style="text-decoration:none;">Inferring relevant features: from QFT to PCA</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(115).pdf" style="text-decoration:none;">Quantum Variational Autoencoder</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(116).pdf" style="text-decoration:none;">The Mean-Field Approximation: Information Inequalities, Algorithms, and Complexity</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(117).pdf" style="text-decoration:none;">Deep neural decoders for near term fault-tolerant experiments</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(118).pdf" style="text-decoration:none;">Advantages of versatile neural-network decoding for topological codes</a></b></li>  
+   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(119).pdf" style="text-decoration:none;">Online Learning of Quantum States</a></b></li> 
+  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(120).pdf" style="text-decoration:none;">Parameter diagnostics of phases and phase transition learning by neural networks</a></b></li>  
+   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(121).pdf" style="text-decoration:none;">Universal Quantum Control through Deep Reinforcement Learning</a></b></li>   
+   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(122).pdf" style="text-decoration:none;">Energy-entropy competition and the eectiveness of stochastic gradient descent in machine learning </a></b></li>  
      
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(123).pdf" style="text-decoration:none;">An Introduction To Geology And Hard Rock Mining</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(123).pdf" style="text-decoration:none;">Thermodynamics of Restricted Boltzmann Machines and Related Learning Dynamics</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(124).pdf" style="text-decoration:none;">Ruby Cookbook</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(124).pdf" style="text-decoration:none;">Measurement-based adaptation protocol with quantum reinforcement learning</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(125).pdf" style="text-decoration:none;">Seeking Allah, Finding Jesus: A Devout Muslim Encounters Christianity </a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(125).pdf" style="text-decoration:none;">Vulnerability of Deep Learning </a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(126).pdf" style="text-decoration:none;">PS, I Love You </a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(126).pdf" style="text-decoration:none;">Comparing Dynamics: Deep Neural Networks versus Glassy Systems</a></b></li> 
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(127).pdf" style="text-decoration:none;">Pre-Intermediate Workbook Key - Solutions</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(127).pdf" style="text-decoration:none;">Extrapolating quantum observables with machine learning: Inferring multiple phase transitions from properties of a single phase</a></b></li>  
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(128).pdf" style="text-decoration:none;">Spoken English Learned Quickly</a></b></li>   
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(128).pdf" style="text-decoration:none;">A high-bias, low-variance introduction to Machine Learning for physicists</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(129).pdf" style="text-decoration:none;">SQLite Tutorial</a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(129).pdf" style="text-decoration:none;">Deep Learning Phase Segregation</a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(130).pdf" style="text-decoration:none;">SQLite </a></b></li>    
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(130).pdf" style="text-decoration:none;">Learning architectures based on quantum entanglement: a simple matrix product state algorithm for image recognition </a></b></li>    
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(131).pdf" style="text-decoration:none;">Systems Biology for Traditional Chinese Medicine </a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(131).pdf" style="text-decoration:none;">Bridging Many-Body Quantum Physics and Deep Learning via Tensor Networks </a></b></li>   
    
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(132).pdf" style="text-decoration:none;">Traditional Chinese Medicine Medicated Diet Recipe Book </a></b></li>   
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(132).pdf" style="text-decoration:none;">Quantum algorithms for training Gaussian Processes </a></b></li>   
    
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(133).pdf" style="text-decoration:none;">Teaching Organic Farming and Gardening </a></b></li>     
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(133).pdf" style="text-decoration:none;">Matrix Product Operators for Sequence to Sequence Learning </a></b></li>     
    
  
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(134).pdf" style="text-decoration:none;">Testing English Collocations : Developing Receptive Tests for Use with Advanced Swedish Learners</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(134).pdf" style="text-decoration:none;">Protection against Cloning for Deep Learning</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(135).pdf" style="text-decoration:none;">Text Algorithms</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(135).pdf" style="text-decoration:none;">Barren plateaus in quantum neural network training landscapes</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(136).pdf" style="text-decoration:none;">The Five Love Languages: How to Express Heartfelt Commitment to Your Mate (Relationships)</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(137).pdf" style="text-decoration:none;">The Art of Computer Programming - Pre-fascicle 2A - A Draft Of Section 7.2.1.1: Generating All n -tuples</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(138).pdf" style="text-decoration:none;">The Coaching Habit: Say Less, Ask More and Change the Way You Lead Forever</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(139).pdf" style="text-decoration:none;">The Complete Book of Ayurvedic Home Remedies</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(140).pdf" style="text-decoration:none;">The Definitive Guide to SQLite</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(136).pdf" style="text-decoration:none;">Learning quantum models from quantum or classical data</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(137).pdf" style="text-decoration:none;">Towards Quantum Machine Learning with Tensor Networks</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(138).pdf" style="text-decoration:none;">A note on state preparation for quantum machine learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(139).pdf" style="text-decoration:none;">Circuit-centric quantum classifiers</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(140).pdf" style="text-decoration:none;">Classical Verification of Quantum Computations</a></b></li>
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(141).pdf" style="text-decoration:none;"> The DevOps 2.1 Toolkit: Docker Swarm </a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(142).pdf" style="text-decoration:none;">The History of Islamic Political Thought: From the Prophet to the Present</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(143).pdf" style="text-decoration:none;">The Most Important Person on Earth </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(144).pdf" style="text-decoration:none;">The Kingdom of God Is Within You</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(145).pdf" style="text-decoration:none;">The Kingdom of the Occult</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(146).pdf" style="text-decoration:none;">The transmission of Chinese medicine</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(141).pdf" style="text-decoration:none;"> Smallest Neural Network to Learn the Ising Criticality</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(142).pdf" style="text-decoration:none;">Quantum Machine Learning Matrix Product States</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(143).pdf" style="text-decoration:none;">The Loss Surface of XOR Artificial Neural Networks</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(144).pdf" style="text-decoration:none;">Complex energy landscapes in spiked-tensor and simple glassy models: ruggedness, arrangements of local minima and phase transitions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(145).pdf" style="text-decoration:none;">Machine learning of phase transitions in the percolation and XY models</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(146).pdf" style="text-decoration:none;">Neural network decoder for topological color codes with circuit level noise</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(147).pdf" style="text-decoration:none;">The Constituents of Medicinal Plants</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(147).pdf" style="text-decoration:none;">Variational quantum simulation of imaginary time evolution with applications in chemistry and beyond</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(148).pdf" style="text-decoration:none;">The Anti-Inflammation Diet and Recipe Book</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(148).pdf" style="text-decoration:none;">Strawberry Fields: A Software Platform for Photonic Quantum Computing</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(149).pdf" style="text-decoration:none;">The Complete Home Guide to Herbs, Natural Healing, and Nutrition</a></b></li>   
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(149).pdf" style="text-decoration:none;">Supervised machine learning algorithms based on generalized Gibbs ensembles</a></b></li>   
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(150).pdf" style="text-decoration:none;">The Psychology of Food Choice</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(150).pdf" style="text-decoration:none;">Hierarchical quantum classifiers</a></b></li> 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(151).pdf" style="text-decoration:none;">Thinking in C++ </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(151).pdf" style="text-decoration:none;">Differentiable Learning of Quantum Circuit Born Machine </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(152).pdf" style="text-decoration:none;">Understanding Big Data. Analytics for Enterprise Class. Hadoop and Streaming Data</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(153).pdf" style="text-decoration:none;">Bootstrap Site Blueprints: Design mobile-first responsive websites with Bootstrap 3 </a></b></li> 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(154).pdf" style="text-decoration:none;">Build Your Own Website The Right Way Using HTML & CSS</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(152).pdf" style="text-decoration:none;">Optimizing a Polynomial Function on a Quantum Simulator</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(153).pdf" style="text-decoration:none;">Classicalization Clearly: Quantum Transition into States of Maximal Memory Storage Capacity</a></b></li> 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(154).pdf" style="text-decoration:none;">Method to solve quantum few-body problems with artificial neural networks</a></b></li> 
  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(155).pdf" style="text-decoration:none;">Build Your Own Z80 Computer: design guidelines and application notes</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(155).pdf" style="text-decoration:none;">A sequential sampling strategy for extreme event statistics in nonlinear dynamical systems</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(156).pdf" style="text-decoration:none;">Chemistry, Biochemistry and Ayurveda of Indian Medicinal Plants</a></b></li>                              
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(157).pdf" style="text-decoration:none;">Chinese Herbal Medicine: Modern Applications of Traditional Formulas </a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(158).pdf" style="text-decoration:none;">The Practice of Chinese Medicine</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(156).pdf" style="text-decoration:none;">Learning non-Higgsable gauge groups in 4D F-theory</a></b></li>                              
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(157).pdf" style="text-decoration:none;">A Simple Quantum Neural Net with a Periodic Activation Function</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(158).pdf" style="text-decoration:none;">Quantum codes from classical graphical models</a></b></li>
    
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(159).pdf" style="text-decoration:none;">Classic Shell Scripting </a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(159).pdf" style="text-decoration:none;">Machine learning assisted readout of trapped-ion qubits </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(160).pdf" style="text-decoration:none;">Clinical Pharmacology Made Incredibly Easy!</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(160).pdf" style="text-decoration:none;">Probing Hidden Spin Order with Interpretable Machine Learning</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(161).pdf" style="text-decoration:none;">Core PHP Programming: Using PHP to Build Dynamic Web Sites</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(161).pdf" style="text-decoration:none;">Quantum generative adversarial networks</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(162).pdf" style="text-decoration:none;">CRM Fundamentals</a></b></li> 
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(163).pdf" style="text-decoration:none;">Designing and testing crop rotations for organic farming</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(162).pdf" style="text-decoration:none;">Quantum generative adversarial learning</a></b></li> 
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(163).pdf" style="text-decoration:none;">Supervised learning with quantum enhanced feature spaces</a></b></li> 
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(164).pdf" style="text-decoration:none;">Destiny Disrupted: A History of the World Through Islamic Eyes</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(164).pdf" style="text-decoration:none;">Multiparameter optimisation of a magneto-optical trap using deep learning</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(165).pdf" style="text-decoration:none;">DevOps for Developers</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(165).pdf" style="text-decoration:none;">Neural networks as Interacting Particle Systems: Asymptotic convexity of the Loss Landscape and Universal Scaling of the Approximation Error</a></b></li> 
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(166).pdf" style="text-decoration:none;">DevOps For Dummies</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(166).pdf" style="text-decoration:none;">Optimal universal learning machines for quantum state discrimination</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(167).pdf" style="text-decoration:none;">Do the Work: Overcome Resistance and Get Out of Your Own Way</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(167).pdf" style="text-decoration:none;">Quantum artificial intelligence to simulate many body quantum systems</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(168).pdf" style="text-decoration:none;">Dotcomology - The Science of Making Money Online</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(169).pdf" style="text-decoration:none;">Encyclopedia of Ancient Natural Scientists: The Greek Tradition and Its Many Heirs</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(170).pdf" style="text-decoration:none;">Engineering Geology of British Rocks and Soils - Lias Group</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(171).pdf" style="text-decoration:none;">Understanding Engineering Mathematics</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(172).pdf" style="text-decoration:none;">Entrepreneurship: Owning Your Future</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(173).pdf" style="text-decoration:none;">Essential German Grammar </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(168).pdf" style="text-decoration:none;">Identifying topological order via unsupervised machine learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(169).pdf" style="text-decoration:none;">Physically optimizing inference</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(170).pdf" style="text-decoration:none;">Universal discriminative quantum neural networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(171).pdf" style="text-decoration:none;">Quantum classification of the MNIST dataset via Slow Feature Analysis</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(172).pdf" style="text-decoration:none;">Entropy and mutual information in models of deep neural networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(173).pdf" style="text-decoration:none;">Deep Learning Topological Invariants of Band Insulators</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(174).pdf" style="text-decoration:none;">Expert Shell Scripting</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(175).pdf" style="text-decoration:none;">Extending Bootstrap</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(176).pdf" style="text-decoration:none;">The Facts on File Encyclopedia of Health and Medicine</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(174).pdf" style="text-decoration:none;">Bayesian Quantum Circuit</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(175).pdf" style="text-decoration:none;">Machine learning many-body localization: Search for the elusive nonergodic metal</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(176).pdf" style="text-decoration:none;">Automated discovery of characteristic features of phase transitions in many-body localization</a></b></li>  
    
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(177).pdf" style="text-decoration:none;">Fundamental Methods of Mathematical Economics</a></b></li> 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(177).pdf" style="text-decoration:none;">Adversarial quantum circuit learning for pure state approximation</a></b></li> 
                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(178).pdf" style="text-decoration:none;">Fundamentals of Organic Farming and Gardening</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(179).pdf" style="text-decoration:none;">Modern German Grammar</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(178).pdf" style="text-decoration:none;">Machine learning of quantum phase transitions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(179).pdf" style="text-decoration:none;">Universal Statistics of Fisher Information in Deep Neural Networks: Mean Field Approach</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(180).pdf" style="text-decoration:none;">Hacking Exposed 6: Network Security Secrets & Solutions</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(180).pdf" style="text-decoration:none;">Machine-learning Skyrmions</a></b></li>
                               
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(181).pdf" style="text-decoration:none;">Hands-On Python: A Tutorial Introduction for Beginners</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(182).pdf" style="text-decoration:none;">How to Make Money in Stocks </a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(183).pdf" style="text-decoration:none;">How to Be a People Magnet: Finding Friends - And Lovers - And Keeping Them for Life </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(181).pdf" style="text-decoration:none;">Analytic continuation via 'domain-knowledge free' machine learning</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(182).pdf" style="text-decoration:none;">Supervised learning with generalized tensor networks </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(183).pdf" style="text-decoration:none;">Continuous-variable quantum neural networks </a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(184).pdf" style="text-decoration:none;">How to Grow More Vegetables (and Fruits, Nuts, Berries, Grains, and Other Crops) </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(184).pdf" style="text-decoration:none;">Decoherence in a quantum neural network </a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(185).pdf" style="text-decoration:none;">I Hate Myselfie: A Collection of Essays by Shane Dawson</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(185).pdf" style="text-decoration:none;">Quantum Kitchen Sinks: An algorithm for machine learning on near-term quantum computers</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(186).pdf" style="text-decoration:none;">Indian Medicinal Plants: An Illustrated Dictionary</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(186).pdf" style="text-decoration:none;">Quantum Codes from Neural Networks</a></b></li>
                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(187).pdf" style="text-decoration:none;">Artificial Quantum Neural Network: quantum neurons, logical elements and tests of convolutional nets</a></b></li>
+                             
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(188).pdf" style="text-decoration:none;">A Universal Training Algorithm for Quantum Deep Learning </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(189).pdf" style="text-decoration:none;">Optimization of neural networks via finite-value quantum fluctuations</a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(190).pdf" style="text-decoration:none;">Adversarial training of quantum Born machine </a></b></li>
+ 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(191).pdf" style="text-decoration:none;">Interpretable Machine Learning for Inferring the Phase Boundaries in a Non-equilibrium System  </a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(192).pdf" style="text-decoration:none;">Benchmarking Neural Networks For Quantum Computations</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(193).pdf" style="text-decoration:none;">Symmetries and many-body excited states with neural-network quantum states</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(194).pdf" style="text-decoration:none;">Neural networks as "hidden" variable models for quantum systems </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(188).pdf" style="text-decoration:none;">Introduction to Algorithms </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(195).pdf" style="text-decoration:none;">Recurrent neural networks running on quantum spins: memory accuracy and capacity</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(189).pdf" style="text-decoration:none;">Jump Start Bootstrap: Get Up to Speed With Bootstrap in a Weekend</a></b></li>
-    <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(190).pdf" style="text-decoration:none;">Duke's Handbook of Medicinal Plants of the Bible </a></b></li>
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(191).pdf" style="text-decoration:none;">Medicinal Plants in Folk Tradition − an Ethnobotany of Britain and Ireland  </a></b></li>
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(192).pdf" style="text-decoration:none;">Microbiology </a></b></li>
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(193).pdf" style="text-decoration:none;">MongoDB: The Definitive Guide</a></b></li>
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(194).pdf" style="text-decoration:none;">New Cutting Edge Pre-intermediate Workbook With Key </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(196).pdf" style="text-decoration:none;">TherML: Thermodynamics of Machine Learning</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(195).pdf" style="text-decoration:none;">No More Secrets with Big Data Analytics</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(197).pdf" style="text-decoration:none;">The fundamentals of quantum machine learning</a></b></li> 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(196).pdf" style="text-decoration:none;">Node.js in Action</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(198).pdf" style="text-decoration:none;">An introductory example of machine learning enhanced global optimization</a></b></li>                              
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(197).pdf" style="text-decoration:none;">Perl Cookbook</a></b></li> 
- 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(198).pdf" style="text-decoration:none;">Perl: The Complete Reference</a></b></li>                              
-
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(199).pdf" style="text-decoration:none;">Pocket Atlas of Oral Diseases</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(199).pdf" style="text-decoration:none;">Self-learning Monte Carlo method with Behler-Parrinello neural networks</a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(200).pdf" style="text-decoration:none;">Professional AngularJS</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(200).pdf" style="text-decoration:none;">Many-body (de)localization in large quantum chains</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/270-eBooks/blob/master/bkl(201).pdf" style="text-decoration:none;">Programming in Scala </a></b></li> 
   
