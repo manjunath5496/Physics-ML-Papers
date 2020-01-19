@@ -540,7 +540,7 @@ neural network</a></b></li>
  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(298).pdf" style="text-decoration:none;">Designing neural network based decoders for surface codes</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(299).pdf" style="text-decoration:none;">Quantum topology identication with deep neural networks and quantum walks</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(299).pdf" style="text-decoration:none;">Quantum topology identification with deep neural networks and quantum walks</a></b></li>                              
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(300).pdf" style="text-decoration:none;">Divergence of predictive model output as indication of phase transitions</a></b></li>
  
