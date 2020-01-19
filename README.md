@@ -485,7 +485,7 @@ Statistical Neurodynamics of Deep Networks: Geometry of Signal Spaces </a></b></
   
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(268).pdf" style="text-decoration:none;">A jamming transition from under- to over-parametrization affects loss landscape and generalization</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(269).pdf" style="text-decoration:none;">Emulating quantum computation with articial neural networks</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(269).pdf" style="text-decoration:none;">Emulating quantum computation with artificial neural networks</a></b></li>
   
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Physics-ML-Papers/blob/master/pyl(270).pdf" style="text-decoration:none;">The Role of Data in Model Building and Prediction: A Survey Through Examples</a></b></li>
  
